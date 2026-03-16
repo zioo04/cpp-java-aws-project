@@ -1,0 +1,15 @@
+### 🔴 클릭 카운터 게임
+
+현재 숫자: <span id="number">0</span>
+
+<button onclick="countUp()" style="background-color: red; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+  빨간 버튼
+</button>
+
+<script>
+  let count = 0;
+  function countUp() {
+    count++;
+    document.getElementById('number').innerText = count;
+  }
+</script>
