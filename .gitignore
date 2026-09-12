@@ -1,2 +1,3 @@
 engine/bankshot
+api/target/
 *.o
