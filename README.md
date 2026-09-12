@@ -1,6 +1,13 @@
 # my-study
-```
-print("Hello World")
-웹 게임 백엔드 구축 — 뱅크샷 경로 탐색기(C++), 점수 검증 API(Java/Lambda), DynamoDB 랭킹 저장
 
 ```
+print("Hello World")
+
+```
+
+Here is the English translation for your project description:
+Web Game Backend Architecture
+ * Bank Shot Path Finder: Implemented in C++ for high-performance physics calculation and trajectory prediction.
+ * Score Verification API: Developed using Java and AWS Lambda for secure, serverless request validation and anti-cheat processing.
+ * Leaderboard Storage: Powered by Amazon DynamoDB for low-latency ranking data management and persistence.
+
